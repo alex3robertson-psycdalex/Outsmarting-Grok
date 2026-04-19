@@ -24,9 +24,8 @@ Computer algebra systems like SymPy actually output the same symbol (zoo = compl
 But these are not the default real-number arithmetic most people mean when they ask this question. In school math, calculus, physics, etc., we simply say both are undefined and leave it at that.Bottom line: 10≠20\frac{1}{0} \neq \frac{2}{0}\frac{1}{0} \neq \frac{2}{0}
  because neither is a number at all. They’re both meaningless in ordinary math.
 
-Explain Riemann sphere infinity
 
-Limits of rational functions
+
 
 Think about duals and such
 
@@ -75,9 +74,8 @@ Wheel theory / projective extensions → they are the same (=∞=\infty=\infty
 
 These extensions are consistent and useful in certain algebraic or geometric contexts, but they’re not replacements for ordinary real arithmetic — they’re deliberate enrichments. If you had a specific “dual” or other structure in mind, feel free to clarify!
 
-Explore wheel theory axioms
 
-Division by zero in physics
+
 
 Nah i meant it abstractly because anything divided by 0 cause a negative and positive infinity so it seems like their is structure through even if currently undefined
 
@@ -111,9 +109,9 @@ In both cases the underlying geometry is the same: the number line “closes up�
  and 20\frac{2}{0}\frac{2}{0}
  feel like they belong to the same abstract family. It’s exactly the kind of hidden structure that projective extensions and wheel algebra were invented to capture formally.
 
-Explore wheel theory details
 
-Related singularities in physics
+
+
 
 Think integrals. Think density
 
